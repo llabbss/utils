@@ -13,6 +13,7 @@
 
     
 ### 启动服务
+    mock数据服务，可以自行修改
     ```bash
     cd server
     npm run server
